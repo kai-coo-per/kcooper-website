@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: gridlay
+layout:default
 sitemap: false
 permalink: /about/
 ---
